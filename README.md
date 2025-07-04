@@ -56,7 +56,8 @@ The solution implements a **lightweight Intrusion Detection System (IDS)** using
 ## 🚀 Future Work  
 - Integrate **machine learning** for adaptive anomaly detection.  
 - Extend support for **5GHz networks** and industrial IoT devices.  
-- Cloud-based **centralized monitoring dashboard**.  
+- Cloud-based **centralized monitoring dashboard**.
+- **IoT attack dataset usage**.  
 
 ---
 
