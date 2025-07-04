@@ -47,7 +47,7 @@ The solution implements a **lightweight Intrusion Detection System (IDS)** using
 ├── /docs/               # Project report (PDF) and diagrams  
 ├── /configs/            # Suricata configuration files  
 ├── /rules/              # Custom IDS rules for IoT threats  
-├── /scripts/            # Automation scripts for setup  
+├── /used apps/            # Camera streaming apps and visualization app  
 └── README.md  
 ```
 
