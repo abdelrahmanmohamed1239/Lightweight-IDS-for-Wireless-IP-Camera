@@ -4,7 +4,7 @@ A Security Lightweight Intrusion Detection System monitors and protects Tapo IP 
 
 ______________________________________________________________________________________________________________
 
-📌 Overview  
+## 📌 Overview  
 This project addresses critical cybersecurity vulnerabilities in **wireless IP cameras** (e.g., Tapo, Ezviz, Xiaomi) connected to home/office Wi-Fi networks. These devices are often targeted by **botnets, DoS/DDoS attacks, and unauthorized access** due to weak default security.  
 
 The solution implements a **lightweight Intrusion Detection System (IDS)** using **Suricata NIDS** on a Windows GUI environment, optimized for real-time threat detection without compromising device performance.  
