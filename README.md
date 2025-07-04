@@ -36,9 +36,9 @@ The solution implements a **lightweight Intrusion Detection System (IDS)** using
 ---
 
 ## 📊 Results  
-- Successfully detected **brute-force attacks, botnet traffic, and port scanning**.  
-- **<5% performance impact** on camera streaming quality.  
-- **Low false-positive rate** with optimized Suricata rules.  
+- Successfully detected **malware attacks, botnet traffic, and port scanning**.  
+- **<Lowest performance impact** on camera streaming quality.  
+- **Accurate detection rate** with optimized Suricata rules.  
 
 ---
 
@@ -67,5 +67,5 @@ Open-source under [MIT License](LICENSE).
 
 ## 📬 Contact  
 **Abdelrahman Mohamed**  
-- Email: [your-email@example.com]  
-- LinkedIn: [your-linkedin]  
+- Email: [engabdelrahmanmohamed119@gmail.com]  
+- LinkedIn: [https://www.linkedin.com/in/abdelrahman-mohamed-31618125b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]  
